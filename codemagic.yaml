@@ -4,7 +4,7 @@ workflows:
     max_build_duration: 20
     instance_type: mac_mini_m1
     environment:
-      android_満:
+      android_env:
         ndk: 25.2.9519653
         sdk: 33
     triggering:
